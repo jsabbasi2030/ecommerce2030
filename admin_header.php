@@ -802,7 +802,7 @@
 							<span class="nav-text">Products</span>
 						</a>
                         <ul aria-expanded="false">
-                            <li><a href="chart-flot.html">Add Product</a></li>
+                            <li><a href="add_product.php">Add Product</a></li>
                             <li><a href="chart-morris.html">All Products</a></li>
                            
                         </ul>
